@@ -1,6 +1,6 @@
 # bigcontest2021_MRGC
 
-## MEMBERS
+## Contributors
 <table>
   <tr>
       <td align="center"><a href="https://github.com/yoosoobin"><img src="https://avatars.githubusercontent.com/u/76245088?v=4" width="100" height="100"><br /><sub><b>유수빈</b></sub></td>
